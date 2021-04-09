@@ -1,0 +1,1 @@
+"./MyInsanity_Final_Project.obj" "./adcMsp.obj" "./lcdLib.obj" "./uartMsp.obj" "../lnk_msp430g2553.cmd" -llibc.a 
