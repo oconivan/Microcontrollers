@@ -1,0 +1,1 @@
+"./uartMsp.obj" "./uart_main_TX.obj" "../lnk_msp430g2553.cmd" -llibc.a 
